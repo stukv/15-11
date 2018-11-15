@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Days+One|Tajawal');
+</style>
+font-family: 'Tajawal', sans-serif;
+font-family: 'Days One', sans-serif;
+}
+
+@media screen and (orientation:portrait)
+{
+    body{
+        backgraound:red;
+}
+}
+@keyframes nombre{
+    from{color:blue; transform:scale(0.7);}
+    to {color:pink; transform: scale(1.5);}
+}
